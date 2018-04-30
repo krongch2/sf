@@ -1,0 +1,53 @@
+[
+    {
+        "directory": "SEAM 2015",
+        "url": "https://www.youtube.com/watch?v=D1ZTag0avuE",
+        "matches":
+        [
+            ["00:10:36", "00:16:50", "Z - Kyouso (Rose) vs. Xiaohu (Rose).mp4"],
+            ["00:21:03", "00:25:50", "Z - White Squall (Makoto) vs. Hyde (C. Viper).mp4"],
+            ["00:30:17", "00:35:50", "Z - Gamerbee (Adon) vs. Ninl (Ken).mp4"],
+            ["00:41:24", "00:47:22", "Z - Itazan (Zangief) vs. Kyouso (Rose).mp4"],
+            ["00:52:13", "00:58:46", "Z - Xiaohai (Evil Ryu) vs. MOV (Ibuki).mp4"],
+            ["01:04:26", "01:11:50", "Z - Gamerbee (Adon) vs. Gonzales (Seth).mp4"],
+            ["01:14:44", "01:24:50", "Z - Dark Jiewa (Ken) vs. Dogura (Rolento).mp4"],
+            ["01:33:32", "01:44:50", "Z - Gamerbee (Elena) vs. Itazan (Zangief).mp4"],
+            ["01:46:44", "01:51:40", "Z - U2 (Ibuki) vs. Momochi (Ken).mp4"],
+            ["01:55:55", "02:01:00", "Z - Xiaohai (Evil Ryu) vs. Dark Jiewa (Ken).mp4"],
+            ["02:05:29", "02:10:52", "Z - Bison Wong (Bison) vs. Pugera (Ibuki).mp4"],
+            ["02:14:32", "02:17:40", "Z - Lili (Cody) vs. Kazunoko (Yun).mp4"],
+            ["02:22:29", "02:31:04", "Z - Tomy (T. Hawk) vs. Momochi (Ken).mp4"]
+        ]
+    },
+    {
+        "directory": "SEAM 2015",
+        "url": "https://www.youtube.com/watch?v=PmXlK5jVAWU",
+        "matches":
+        [
+            ["00:05:05", "00:11:50", "Z - Shermie (Sagat) vs. Matsuri (Chun-Li).mp4"],
+            ["00:14:54", "00:20:28", "Z - Momochi (Ken) vs. Pugera (Ibuki).mp4"],
+            ["00:27:09", "00:34:00", "Z - Shermie (Sagat) vs. Infiltration (Chun-Li).mp4"],
+            ["00:37:48", "00:44:36", "Z - GTR (Ryu) vs. Bean (Elena).mp4"],
+            ["00:48:46", "00:54:38", "Z - Lele (Gouken) vs. Somniac (Decapre).mp4"],
+            ["00:58:28", "01:05:40", "Z - Kichijoji Ken (Ken) vs. Infiltration (Decapre).mp4"],
+            ["01:10:44", "01:15:42", "Z - Ake Wii (Blanka) vs. Tonpy (C. Viper).mp4"],
+            ["01:20:23", "01:29:10", "Z - Aon Yoga Water (Dhalsim) vs. Gachikun (Sagat).mp4"],
+            ["01:31:46", "01:37:40", "Z - Infiltration (Hugo) vs. Bean (Elena).mp4"],
+            ["01:39:48", "01:48:10", "Z - Grean Byte (Sagat) vs. Daigo (Evil Ryu).mp4"],
+            ["01:51:31", "01:58:05", "Z - Tonpy (C. Viper) vs. Gachikun (Sagat).mp4"],
+            ["02:02:33", "02:11:22", "Z - MindRPG (Bison) vs. Kim1234 (Bison).mp4"],
+            ["02:14:32", "02:19:46", "Z - Reiketsu (Vega) vs. Daigo (Evil Ryu).mp4"]
+        ]
+    },
+    {
+        "directory": "SEAM 2015",
+        "url": "https://www.youtube.com/watch?v=Kv4MxalEscU",
+        "matches":
+        [
+            ["00:01:24", "00:09:20", "Z - Shiro (Abel) vs. Kindevu (Rufus, C. Viper).mp4"],
+            ["00:12:12", "00:16:45", "Z - Bosnoko (Cammy) vs. Daigo (Evil Ryu).mp4"],
+            ["00:23:13", "00:28:13", "Z - Shiro (Abel) vs. IDK (Elena).mp4"],
+            ["00:33:13", "", "Z - Kim1234 (Bison) vs. Daigo (Evil Ryu).mp4"]
+        ]
+    }
+]

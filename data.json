@@ -131,5 +131,221 @@
         "directory": "Topanga Asia League",
         "url": "https://www.youtube.com/playlist?list=PLJGU2inEmVz0yc5ewu8LaDmwE1QNfkso0",
         "matches": []
+    },
+    {
+        "directory": "Final Round 18",
+        "url": "https://www.youtube.com/watch?v=iZEeG6MXrQM",
+        "matches":
+        [
+            ["00:18:50", "00:24:20", "Z - Jibbo (Hugo) vs. Sky Viper (C. Viper).mp4"],
+            ["00:26:47", "00:29:22", "Z - Karnage (E. Honda) vs. Skytarian (Oni).mp4"],
+            ["00:30:52", "00:36:04", "Z - Day Wo (Dudley) vs. Ludovic (Chun-Li).mp4"],
+            ["00:37:21", "00:41:58", "Z - Momochi (Ken) vs. Haiwix (Cammy).mp4"],
+            ["00:44:10", "00:47:12", "Z - Day1Kappa (Decapre) vs. Flash House (Blanka).mp4"],
+            ["00:48:49", "00:54:18", "Z - Rao (Fei Long) vs. Karnage (E. Honda).mp4"],
+            ["00:56:51", "01:02:25", "Z - Profound Badness (Guy) vs. Itazan (Zangief).mp4"],
+            ["01:04:51", "01:08:28", "Z - Smug (Dudley) vs. Kaboxx (Balrog).mp4"],
+            ["01:12:26", "01:20:24", "Z - World Slayer (Ibuki) vs. Nu Matrix (Chun-Li).mp4"],
+            ["01:22:37", "01:26:39", "Z - Mago (Yang) vs. Demon Eyez (Ryu, Cammy).mp4"],
+            ["01:29:56", "01:34:35", "Z - World Slayer (Ibuki) vs. Momochi (Ken).mp4"],
+            ["01:36:40", "01:43:19", "Z - Gilty (Dhalsim, Makoto) vs. Bush (Cody).mp4"],
+            ["01:46:53", "01:52:17", "Z - Damdai (Decapre) vs. Mago (Yang).mp4"],
+            ["01:54:41", "01:58:36", "Z - Aknon (Balrog) vs. Julio (Yun).mp4"],
+            ["02:00:06", "02:03:43", "Z - Alonzo (E. Honda) vs. Brentt (Rufus).mp4"],
+            ["02:05:37", "02:11:48", "Z - Ludovic (Chun-Li) vs. Velociraptor (Gouken).mp4"],
+            ["02:13:43", "02:22:26", "Z - Hiro (M. Bison) vs. Mago (Yang).mp4"],
+            ["02:24:16", "02:29:55", "Z - Gavyn (Ryu) vs. Pancakes (Vega).mp4"],
+            ["02:32:17", "02:36:18", "Z - Itazan (Zangief) vs. Taboc (Hugo).mp4"],
+            ["02:38:07", "02:43:48", "Z - Sherry Jenix (C. Viper) vs. Madness (Adon).mp4"],
+            ["02:45:48", "02:53:00", "Z - Brentt (Rufus) vs. Smug (Dudley).mp4"],
+            ["02:54:17", "02:58:23", "Z - Nacer (Chun-Li, Gouken) vs. K-Brad (Cammy).mp4"],
+            ["02:59:57", "03:03:43", "Z - Gilty (Makoto) vs. Julio (Yun).mp4"],
+            ["03:05:01", "03:08:42", "Z - World Slayer (Ibuki) vs. Jibbo (Hugo).mp4"],
+            ["03:11:03", "03:16:07", "Z - Air (Poison) vs. Ace Unlimited (Guy).mp4"],
+            ["03:17:04", "03:31:13", "Z - Filipino Champ (Dhalsim) vs. Ace Unlimited (Guy).mp4"]
+        ]
+    },
+    {
+        "directory": "Final Round 18",
+        "url": "https://www.youtube.com/watch?v=l7znDzD6LgE",
+        "matches":
+        [
+            ["00:00:36", "00:12:42", "Z - Velociraptor (Gouken) vs. Driftwood (Fei Long).mp4"],
+            ["00:14:05", "00:18:25", "Z - Taboc (Rufus) vs. Swagga (Rose).mp4"],
+            ["00:20:40", "00:25:03", "Z - Saltface (Cammy) vs. Brentt (Rufus).mp4"],
+            ["00:28:18", "00:32:42", "Z - Champ (El Fuerte) vs. Kit Niceone (Guy).mp4"],
+            ["00:34:10", "00:42:55", "Z - Nacer (Cammy) vs. Flash House (Blanka).mp4"],
+            ["00:45:45", "00:50:07", "Z - BJ Unchained (Cody) vs. Tokido (Akuma).mp4"],
+            ["00:51:45", "00:57:33", "Z - BJ Unchained (Cody) vs. Pokchop (Abel).mp4"],
+            ["01:00:16", "01:06:41", "Z - LPN (Rolento, Cammy) vs. Tampa Bison (M. Bison).mp4"],
+            ["01:08:35", "01:12:40", "Z - Patrick (Evil Ryu) vs. Dakou (Ken).mp4"],
+            ["01:14:07", "01:18:51", "Z - Patrick (Evil Ryu) vs. Flash Metroid (C. Viper).mp4"],
+            ["01:21:26", "01:28:00", "Z - Cardell (Chun-Li) vs. Gamerbee (Adon).mp4"],
+            ["01:29:42", "01:34:25", "Z - LPN (Cammy) vs. Integra (Ken).mp4"],
+            ["01:35:55", "01:39:28", "Z - Daigo (Evil Ryu) vs. Realistic (Ibuki).mp4"],
+            ["01:42:04", "01:51:13", "Z - Joel (Ryu) vs. Onisan (Abel).mp4"],
+            ["01:52:45", "02:01:38", "Z - Sanford Kelly (Oni) vs. Boitoi (Chun-Li).mp4"],
+            ["02:05:21", "02:12:29", "Z - Cardell (C. Viper, Chun-Li) vs. Eric M (Seth).mp4"],
+            ["02:14:05", "02:18:07", "Z - Filipino Man (Rose) vs. Min (E. Honda).mp4"],
+            ["02:20:37", "02:26:02", "Z - Chris T (Ken) vs. Xiaohai (Cammy).mp4"],
+            ["02:28:23", "02:33:15", "Z - HZY (Poison, C. Viper) vs. PR Balrog (Evil Ryu).mp4"],
+            ["02:36:13", "02:45:30", "Z - Fuudo (Fei Long) vs. Chris G (Elena).mp4"],
+            ["02:47:51", "02:54:21", "Z - Min (E. Honda) vs. Ailerus (Abel).mp4"],
+            ["02:58:09", "03:03:07", "Z - Xiaohai (Cammy) vs. Yipes (Abel).mp4"],
+            ["03:05:33", "03:09:49", "Z - Junninn (Chun-Li) vs. HZY (C. Viper).mp4"],
+            ["03:11:56", "03:17:26", "Z - Kreymore (Juri) vs. Ranmasama (Decapre).mp4"],
+            ["03:19:19", "03:24:25", "Z - NuckleDu (Guile) vs. Tab Nylon (Rufus).mp4"],
+            ["03:26:09", "03:30:53", "Z - Foomie (Sakura) vs. GLB (Ryu).mp4"],
+            ["03:32:27", "03:36:09", "Z - Bonchan (Sagat) vs. Totally Drew (Dudley).mp4"],
+            ["03:38:52", "03:47:35", "Z - Rico Suave (Abel) vs. Four Wude (Akuma).mp4"],
+            ["03:50:59", "03:56:39", "Z - Kelvin Jeon (Rolento) vs. Dieminion (Guile).mp4"],
+            ["03:58:53", "04:02:27", "Z - Kelvin Jeon (Hugo) vs. Kazunoko (Yun).mp4"],
+            ["04:17:27", "04:25:43", "Top 64 Winners - Momochi (Ken) vs. Velociraptor (Gouken).mp4"]
+        ]
+    },
+    {
+        "directory": "Final Round 18",
+        "url": "https://www.youtube.com/watch?v=gb4jvPJCeiA",
+        "matches":
+        [
+            ["00:01:39", "00:08:40", "Top 64 Winners - Itazan (Zangief) vs. Smug (Dudley).mp4"],
+            ["00:11:19", "00:17:27", "Top 64 Winners - Tokido (Akuma) vs. Xian (Gen).mp4"],
+            ["00:19:25", "00:26:35", "Top 64 Winners - Snake Eyez (Zangief) vs. TS Sabin (Dhalsim).mp4"],
+            ["00:28:30", "00:33:12", "Top 64 Winners - Justin Wong (Rose) vs. Dakou (Ken).mp4"],
+            ["00:36:15", "00:41:40", "Top 64 Winners - Chris T (Ken) vs. Fuudo (Fei Long).mp4"],
+            ["00:45:52", "00:54:19", "Top 64 Winners - Daigo (Evil Ryu) vs. PR Balrog (Balrog).mp4"],
+            ["00:56:44", "01:05:53", "Top 64 Winners - Bonchan (Sagat) vs. Im Still da Daddy (Guile).mp4"],
+            ["01:08:17", "01:15:39", "Top 64 Winners - Infiltration (Akuma, Decapre) vs. Tampa Bison (M. Bison).mp4"],
+            ["01:16:57", "01:21:02", "Top 64 Winners - Lingo (Gouken) vs. Ricky Ortiz (Rolento).mp4"],
+            ["01:23:09", "01:27:49", "Top 32 Winners - K-Brad (Cammy) vs. Momochi (Ken).mp4"],
+            ["01:30:54", "01:41:46", "Top 32 Winners - Hiro (M. Bison) vs. Itazan (Zangief).mp4"],
+            ["01:44:10", "01:50:11", "Top 32 Winners - Daigo (Evil Ryu) vs. Fuudo (Fei Long).mp4"],
+            ["01:52:24", "01:56:40", "Top 32 Winners - Bonchan (Sagat) vs. NuckleDu (Guile).mp4"],
+            ["01:59:24", "02:09:24", "Top 16 Winners - Hiro (M. Bison) vs. Momochi (Ken, Elena).mp4"],
+            ["02:11:03", "02:16:12", "Top 32 Losers 2 - Daigo (Evil Ryu) vs. Smug (Dudley).mp4"],
+            ["02:19:15", "02:26:10", "Top 32 Winners - Sanford Kelly (Oni) vs. TS Sabin (Dhalsim).mp4"],
+            ["02:30:17", "02:37:24", "Top 16 Winners - Filipino Man (Rose) vs. Xian (Elena).mp4"],
+            ["02:39:11", "02:50:20", "Top 16 Winners - Bonchan (Sagat) vs. Dieminion (Guile).mp4"],
+            ["02:53:16", "02:59:02", "Top 16 Winners - Fuudo (Fei Long) vs. TS Sabin (Dhalsim).mp4"],
+            ["03:06:34", "03:11:23", "Top 16 Losers 2 - Ricky Ortiz (Rufus) vs. Hiro (M. Bison).mp4"],
+            ["03:13:16", "03:21:56", "Top 16 Losers 2 - Bonchan (Sagat) vs. Snake Eyez (Zangief, Evil Ryu).mp4"],
+            ["03:25:45", "03:31:31", "Top 16 Losers 1 - Daigo (Evil Ryu) vs. Kazunoko (Yun).mp4"],
+            ["03:34:48", "03:43:53", "Top 16 Losers 2 - Tampa Bison (M. Bison) vs. TS Sabin (Dhalsim).mp4"],
+            ["03:45:04", "03:50:46", "Top 16 Losers 2 - Filipino Man (Rose) vs. Kazunoko (Yun).mp4"]
+        ]
+    },
+    {
+        "directory": "Final Round 18",
+        "url":
+        [
+            "https://www.youtube.com/playlist?list=PLUc6xMPBhaWPJatAr05IkqGn2u-G720nF",
+            "https://www.youtube.com/watch?v=W1etj4EOXo4"
+        ],
+        "matches": []
+    },
+    {
+        "directory": "SXSW 2015",
+        "url": "https://www.twitch.tv/videos/30571629",
+        "matches":
+        [
+            ["00:07:49", "00:13:05", "Z - Hamad (Fei Long) vs. Gamerbee (Elena).mp4"],
+            ["00:15:06", "00:20:43", "Z - Momochi (Ken) vs. Sanford Kelly (Oni).mp4"],
+            ["00:22:41", "00:27:23", "Z - Kazunoko (Yun) vs. Daigo (Evil Ryu).mp4"],
+        ]
+    },
+    {
+        "directory": "SXSW 2015",
+        "url": "https://www.twitch.tv/videos/30571470",
+        "matches":
+        [
+            ["00:04:46", "00:13:00", "Z - PR Balrog (Balrog) vs. Tokido (Akuma).mp4"],
+            ["00:14:57", "00:23:55", "Z - Ricky Ortiz (Rufus) vs. NuckleDu (Guile).mp4"],
+            ["00:25:11", "00:36:02", "Z - Xian (Poison, Gen) vs. LPN (Rolento, Abel).mp4"],
+            ["00:37:17", "00:46:41", "Z - Daigo (Evil Ryu) vs. Justin Wong (Rose).mp4"],
+            ["00:47:10", "00:54:24", "Z - PR Balrog (Evil Ryu) vs. Xian (Gen).mp4"]
+        ]
+    },
+    {
+        "directory": "SXSW 2015",
+        "url": "https://www.twitch.tv/videos/30571592",
+        "matches":
+        [
+            ["00:17:37", "00:26:50", "Z - Daigo (Evil Ryu) vs. Ricky Ortiz (Rolento).mp4"],
+            ["00:28:23", "00:35:29", "Z - Tokido (Akuma) vs. Sanford Kelly (Oni).mp4"],
+            ["00:36:13", "00:43:49", "Z - Kazunoko (Yun) vs. NuckleDu (Decapre).mp4"],
+            ["00:46:00", "00:53:28", "Z - Momochi (Ken) vs. K-Brad (Cammy).mp4"],
+            ["00:55:36", "01:04:00", "Z - Hamad (Fei Long) vs. Ricky Ortiz (Rolento).mp4"],
+            ["01:06:32", "01:11:48", "Z - LPN (Rolento, Oni) vs. Snake Eyez (Zangief).mp4"]
+        ]
+    },
+    {
+        "directory": "SXSW 2015",
+        "url": "https://www.twitch.tv/videos/30571536",
+        "matches":
+        [
+            ["00:00:00", "00:03:10", "Z - Justin Wong (Rufus) vs. Gamerbee (Elena).mp4"],
+            ["00:04:22", "00:11:50", "Z - K-Brad (Cammy) vs. Tokido (Akuma).mp4"],
+            ["00:25:24", "00:30:51", "Z - Sanford Kelly (Sagat) vs. LPN (Cammy).mp4"],
+            ["00:32:07", "00:40:25", "Z - Kazunoko (Yun) vs. Justin Wong (Rufus).mp4"],
+            ["00:42:17", "00:49:00", "Z - Daigo (Evil Ryu) vs. Gamerbee (Adon).mp4"],
+            ["00:50:42", "00:57:21", "Z - Hamad (Fei Long) vs. NuckleDu (Guile).mp4"]
+        ]
+    },
+    {
+        "directory": "SXSW 2015",
+        "url": "https://www.twitch.tv/videos/30571716",
+        "matches":
+        [
+            ["00:17:07", "00:24:08", "Z - Snake Eyez (Zangief) vs. Xian (Elena).mp4"],
+            ["00:25:34", "00:32:32", "Z - Ryan Hart (Ryu) vs. Daigo (Evil Ryu).mp4"],
+            ["00:34:23", "00:41:39", "Z - PR Balrog (Balrog, Evil Ryu) vs. Momochi (Ken).mp4"],
+            ["00:42:03", "00:50:42", "Z - Ricky Ortiz (Rolento) vs. Ryan Hart (Sagat, Yun).mp4"],
+            ["00:53:21", "01:01:26", "Z - Snake Eyez (Zangief) vs. Momochi (Ken).mp4"],
+            ["01:03:09", "01:07:15", "Z - Xian (Poison) vs. K-Brad (Cammy).mp4"],
+            ["01:08:40", "01:14:15", "Z - Ryan Hart (Yun, Sagat) vs. Gamerbee (Adon).mp4"],
+            ["01:15:45", "01:21:35", "Z - Ryan Hart (Sagat, Ryu) vs. Hamad (Fei Long).mp4"],
+            ["01:39:33", "01:43:15", "Z - Tokido (Akuma) vs. LPN (Rolento).mp4"],
+            ["01:44:22", "01:55:00", "Z - Justin Wong (Rose, Rufus) vs. NuckleDu (Guile, Decapre).mp4"],
+            ["01:56:16", "02:01:47", "Z - PR Balrog (Evil Ryu) vs. Sanford Kelly (Oni).mp4"],
+            ["02:02:52", "02:07:02", "Z - Ricky Ortiz (Rolento) vs. Kazunoko (Yun).mp4"],
+            ["02:08:30", "02:13:45", "Z - LPN (Rolento, Adon) vs. K-Brad (Cammy).mp4"],
+            ["02:15:41", "02:27:42", "Z - Justin Wong (Rose) vs. Hamad (Fei Long).mp4"],
+            ["02:30:45", "02:38:20", "Z - Tokido (Akuma) vs. Momochi (Ken).mp4"],
+            ["02:40:07", "02:46:15", "Z - NuckleDu (Decapre) vs. Ryan Hart (Decapre).mp4"],
+            ["03:09:53", "03:22:57", "Z - Xian (Poison) vs. Sanford Kelly (Sagat).mp4"],
+            ["03:23:29", "03:28:18", "Z - Ryan Hart (Sagat) vs. Kazunoko (Yun).mp4"],
+            ["03:29:21", "03:37:44", "Z - PR Balrog (Balrog) vs. Snake Eyez (Zangief).mp4"],
+            ["03:39:19", "03:47:19", "Z - Gamerbee (Elena) vs. Ricky Ortiz (Rufus).mp4"],
+            ["03:48:35", "03:55:56", "Z - Snake Eyez (Zangief) vs. Sanford Kelly (Sagat).mp4"],
+            ["03:57:29", "04:02:16", "Z - Gamerbee (Adon) vs. Kazunoko (Yun).mp4"],
+            ["04:03:48", "04:08:49", "Z - Tokido (Akuma) vs. Xian (Elena).mp4"],
+            ["04:10:24", "04:15:16", "Z - NuckleDu (Guile) vs. Daigo (Evil Ryu).mp4"],
+            ["04:34:30", "04:40:25", "Z - Momochi (Ken) vs. LPN (Cammy).mp4"],
+            ["04:43:44", "04:52:21", "Z - Justin Wong (Rose) vs. Ryan Hart (Sagat).mp4"],
+            ["04:53:13", "04:58:38", "Z - PR Balrog (Balrog) vs. K-Brad (Cammy).mp4"],
+            ["05:00:22", "05:08:05", "Z - Daigo (Evil Ryu) vs. Hamad (Fei Long).mp4"],
+            ["05:09:53", "05:22:33", "Z - Justin Wong (Rose) vs. Hamad (Fei Long).mp4"]
+        ]
+    },
+    {
+        "directory": "SXSW 2015",
+        "url": "https://www.twitch.tv/videos/30571668",
+        "matches":
+        [
+            ["00:14:19", "00:28:06", "Top 8 First Round - Justin Wong (Rose) vs. Momochi (Ken).mp4"],
+            ["00:34:37", "00:41:04", "Top 8 First Round - Daigo (Evil Ryu) vs. Xian (Dhalsim).mp4"],
+            ["00:47:02", "00:54:05", "Top 8 First Round - Gamerbee (Elena) vs. Tokido (Akuma).mp4"],
+            ["00:59:34", "01:08:01", "Top 8 First Round - Kazunoko (Yun) vs. PR Balrog (Balrog).mp4"],
+            ["01:24:47", "01:37:23", "Top 8 Losers 1 - Justin Wong (Rufus) vs. Xian (Elena, Poison).mp4"],
+            ["01:40:02", "01:47:43", "Top 8 Losers 1 - PR Balrog (Balrog) vs. Tokido (Akuma).mp4"],
+            ["01:49:10", "01:56:26", "Top 8 Winners - Daigo (Evil Ryu) vs. Momochi (Ken).mp4"],
+            ["01:57:35", "02:03:58", "Top 8 Winners - Gamerbee (Adon) vs. Kazunoko (Yun).mp4"],
+            ["02:05:53", "02:14:26", "Top 8 Losers 2 - Daigo (Evil Ryu) vs. Tokido (Akuma).mp4"],
+            ["02:14:50", "02:21:09", "Top 8 Losers 2 - Justin Wong (Rufus) vs. Kazunoko (Yun).mp4"],
+            ["02:45:53", "02:54:24", "Top 4 Losers 1 - Tokido (Akuma) vs. Kazunoko (Yun).mp4"],
+            ["03:00:23", "03:10:17", "Top 4 Winners - Gamerbee (Adon) vs. Momochi (Ken).mp4"],
+            ["03:11:14", "03:21:14", "Top 4 Losers 2 - Gamerbee (Adon) vs. Kazunoko (Yun).mp4"],
+            ["03:22:30", "03:37:02", "Grand Final - Momochi (Ken) vs. Kazunoko (Yun).mp4"]
+        ]
     }
 ]

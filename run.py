@@ -18,9 +18,11 @@ def ytdl(urls):
         'playliststart': 1,
     }
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-        result = ydl.extract_info(urls, download=False)
-        fn = f'{result["title"]}-{result["id"]}.mp4'
-        print(urls)
+        if type(urls) != list:
+            result = ydl.extract_info(urls, download=False)
+            fn = f'{result["title"]}-{result["id"]}.mp4'
+        else:
+            fn = ''
         ydl.download(urls)
     return fn
 
@@ -37,12 +39,3 @@ for tourney in data:
         if not os.path.exists(match[2]):
             cut(fn, match[0], match[1], match[2])
     os.chdir('..')
-
-def dl_all():
-    # dl('Final Round 18', [
-    #     'https://www.youtube.com/playlist?list=PLUc6xMPBhaWPJatAr05IkqGn2u-G720nF',
-    #     'https://www.youtube.com/watch?v=W1etj4EOXo4'
-    # ])
-    pass
-
-dl_all()

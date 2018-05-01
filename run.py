@@ -16,10 +16,8 @@ def ytdl(urls):
     ydl_opts = {
         'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best',
         'playliststart': 1,
-        # 'retries': 50
     }
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-        # ydl.download(urls)
         result = ydl.extract_info(urls, download=True)
         fn = f'{result["title"]}-{result["id"]}.mp4'
     return fn

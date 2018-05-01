@@ -85,5 +85,51 @@
         [
 
         ]
+    },
+    {
+        "directory": "Topanga League 3A",
+        "url": "https://www.youtube.com/playlist?list=PLXpdXai2oNiOcdlro6J4luFSRvamw9ctU",
+        "matches": []
+    },
+    {
+        "directory": "Topanga League 4A",
+        "url": "https://www.youtube.com/playlist?list=PLXpdXai2oNiO6C0gcPCBxNicfr5Hf3vXA",
+        "matches": []
+    },
+    {
+        "directory": "Topanga League 4B",
+        "url": "https://www.youtube.com/playlist?list=PLXpdXai2oNiPAXJ6NG5R96ewlZjKXA4WZ",
+        "matches": []
+    },
+    {
+        "directory": "Topanga League 5A",
+        "url": "https://www.youtube.com/playlist?list=PLXpdXai2oNiMn1cCuyKyNdsE1am_4G1y4",
+        "matches": []
+    },
+    {
+        "directory": "Topanga League 5B",
+        "url": "https://www.youtube.com/playlist?list=PLXpdXai2oNiOADXSrIW_wDYdB4hKTPtHj",
+        "matches": []
+    },
+    {
+        "directory": "Topanga World League",
+        "url": "https://www.youtube.com/playlist?list=PLXpdXai2oNiMVsi9XBcr11U3yoxapC4JP",
+        "matches": []
+    },
+    {
+        "directory": "Topanga World League 2",
+        "url": [
+            "https://www.youtube.com/playlist?list=PLXpdXai2oNiPqJrbjJOECau_6zWmaGtGG",
+            "https://www.youtube.com/watch?v=7MEsgrytPKs",
+            "https://www.youtube.com/watch?v=pyjWh6RPXSg",
+            "https://www.youtube.com/watch?v=eHo0VZRIZSI",
+            "https://www.youtube.com/watch?v=j_MDIeThVVQ"
+        ],
+        "matches": []
+    },
+    {
+        "directory": "Topanga Asia League",
+        "url": "https://www.youtube.com/playlist?list=PLJGU2inEmVz0yc5ewu8LaDmwE1QNfkso0",
+        "matches": []
     }
 ]

@@ -29,8 +29,8 @@ def ytdl(urls):
 with open('data.json') as f:
     data = json.load(f)
 for tourney in data:
-    if tourney['directory'] != 'Topanga World League 2':
-        continue
+    # if tourney['directory'] != 'Topanga World League 2':
+    #     continue
     if not os.path.exists(tourney['directory']):
         os.makedirs(tourney['directory'])
     os.chdir(tourney['directory'])
